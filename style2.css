@@ -1,0 +1,18 @@
+/*/*selector{
+	property value:
+}*/
+h2{
+	color: blue ;
+}
+.boxmodel{
+	border: 5px solid red;
+	display: inline-block;
+	padding: 20px 5px ;
+	margin:0px,20px;
+}
+p{
+	font-size: 20px;
+}
+span{
+	font-size: 2em;
+}

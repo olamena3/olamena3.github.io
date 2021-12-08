@@ -1,0 +1,44 @@
+/*selector {
+	property: value;
+}*/
+*{
+	text-align: normal;
+}
+body{
+	background-image:url(backgroundimage.jpg)
+	background-size: cover;
+
+}
+h2 , p {
+	color: #5E9732 ;
+	text-align: center;
+	border: 5px solid rgba(0, 0, 22.4,0.3) ;
+	cursor: pointer;
+}
+p{
+	line-height: 20px;
+	font-style: italic;
+	font-weight: thick;
+	font-size: 110% ;
+	font-family:'Roboto', sans-serif;
+}
+
+img{
+	float: right;
+}
+footer{
+	clear: both;
+	text-align: center; 
+}
+.webtext{
+	border: 5px dashed green  ;
+}
+.active{
+	color:red ;
+}
+#div1{
+	background: rgb(0,255,0,0.4);
+}
+#div2{
+	background: rgba(255,0,0,0.5);
+}
